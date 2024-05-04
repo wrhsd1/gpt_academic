@@ -39,6 +39,6 @@ jobs:
         with:
           context: .
           push: true
-          file: docs/GithubAction+NoLocal+Emb
+          file: docs/GithubAction+NoLocal
           platforms: linux/amd64,linux/arm64
           tags: wrhsd/gpt_academic
